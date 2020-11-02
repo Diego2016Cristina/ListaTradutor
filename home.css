@@ -1,0 +1,11 @@
+td {
+    padding: 5px;
+}
+.title {
+    font-weight: bold;
+    background-color: #000;
+    color: #fff;
+}
+.conteudo {
+    background-color: #C14242;
+}
